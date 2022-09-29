@@ -1,0 +1,24 @@
+
+Username = sarim, password = 12345
+Email = sarimeffendi@gmail.com, Security question = Favourite Dog, Answer = labrador,
+Next user
+
+Username = nabi, password = 123456
+Email = nabi@gmail.com, Security question = Favourite Dog, Answer = labrador,
+Next user
+
+Username = umair, password = 54321
+Email = umair@gmail.com, Security question = Favourite Dog, Answer = labrador,
+Next user
+
+Username = moosa, password = 1
+Email = 1, Security question = City of birth?, Answer = 1,
+Next user
+
+Username = zain, password = 2
+Email = 21, Security question = Favourite Dog, Answer = 22,
+Next user
+
+Username = sarimm, password = 123
+Email = 5, Security question = Favourite Dog, Answer = kutta,
+Next user

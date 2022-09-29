@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane onDragDetected="#back" prefHeight="418.0" prefWidth="651.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.BankingController">
+   <children>
+      <Button layoutX="392.0" layoutY="316.0" mnemonicParsing="false" onAction="#depositMoney" prefHeight="44.0" prefWidth="122.0" text="Deposit" />
+      <Button layoutX="107.0" layoutY="322.0" mnemonicParsing="false" onAction="#back" prefHeight="44.0" prefWidth="122.0" text="Back" />
+      <Label layoutX="107.0" layoutY="143.0" prefHeight="17.0" prefWidth="149.0" text="Amount" />
+      <TextField fx:id="funds" layoutX="365.0" layoutY="148.0" promptText="Enter amount " />
+   </children>
+</AnchorPane>
